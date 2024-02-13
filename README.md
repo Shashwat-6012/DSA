@@ -1,6 +1,6 @@
 # DSA
 All DSA Implementations in python.
-Leetcode questions solved according to the required Data structures. 
+Leetcode questions solved according to the required Data structures. \n
 THe files:
 QuestionsonBS
 QuestionsonLinkedlists
